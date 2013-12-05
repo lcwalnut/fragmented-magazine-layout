@@ -1,7 +1,7 @@
 fragmented-magazine-layout
 ==========================
 
-Fragmented Magazine Layouts with CSS Shapes, Regions, and Masks.
+Fragmented Magazine Layout with CSS Shapes, Regions, and Masks.
 
 Demo Article: http://sarasoueidan.com/blog/css-regions-with-shapes-for-readability/index.html
 
